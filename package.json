@@ -1,0 +1,20 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "nm-to-ipfs": "ipfs-nm upload",
+    "ipfs-to-nm": "ipfs-nm download QmeTBrwJHkVCjTASGm4ni4UBhnq9bFtR7vxWho6837LqN6"
+  }, 
+  "keywords": [
+    "ipfs",
+    "node_modules"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
