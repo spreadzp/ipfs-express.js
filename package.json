@@ -6,8 +6,8 @@
   "scripts": {
     "start": "node index.js",
     "nm-to-ipfs": "ipfs-nm upload",
-    "ipfs-to-nm": "ipfs-nm download QmeTBrwJHkVCjTASGm4ni4UBhnq9bFtR7vxWho6837LqN6"
-  }, 
+    "ipfs-to-nm": "ipfs-nm download QmZSXMCUHBPCr6g4mSQfSTHbUnNPGauwtsWfyNoLPfBnDm"
+  },
   "keywords": [
     "ipfs",
     "node_modules"
