@@ -13,13 +13,8 @@ Or download from IPFS last  dependencies to fill node_modules folder
 ```
 for using this command need to install globally
 ```
-    npm i ipfs-nm
-```
-and IPFS to see how to install for your OS, follow the link [IPFS](https://docs.ipfs.io/install/command-line/#system-requirements) 
-IPFS daemon have to run in background
-```
- sudo ipfs daemon &
-```
+    npm i ipfs-nm -g
+``` 
 ## Start app
 ```
 npm start
